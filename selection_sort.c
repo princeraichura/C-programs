@@ -7,7 +7,7 @@ void swap(int *x, int *y)
     *y = temp;
 }
 
-// Function to select the lowest number and bring it to the beginning
+//select the lowest number and bring it to the beginning
 void selection(int arr[], int n)
 {
     int min;
